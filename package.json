@@ -1,0 +1,14 @@
+{
+  "name": "com.foxthorne.utilities",
+  "version": "0.0.1",
+  "displayName": "Foxthorne Utilities",
+  "description": "Several scripts I want to reuse.",
+  "unity": "2021.3",
+ "keywords": [
+    "utilities"
+  ],
+  "author": {
+    "name": "Jackson Thorne",
+    "email": "jack@wrightus.com"
+  }
+}
