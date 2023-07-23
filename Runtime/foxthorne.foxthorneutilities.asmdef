@@ -1,6 +1,6 @@
 {
     "name": "Foxthorne.FoxthorneUtilities",
-    "rootNamespace": "Foxthorne",
+    "rootNamespace": "Foxthorne.Utilities",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
