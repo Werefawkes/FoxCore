@@ -21,7 +21,10 @@ namespace Foxthorne.Utilities
 			}
 			else
 			{
-				DontDestroyOnLoad(this);
+				if (Persistent)
+				{
+					DontDestroyOnLoad(this);
+				}
 				Instance = this as T;
 			}
 		}
