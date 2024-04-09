@@ -1,4 +1,4 @@
-﻿namespace Foxthorne.Utilities
+﻿namespace Foxthorne.FoxCore
 {
 	public class VersionNumber
 	{

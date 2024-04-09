@@ -1,10 +1,10 @@
 {
-  "name": "com.foxthorne.utilities",
+  "name": "com.foxthorne.core",
   "version": "0.0.1",
-  "displayName": "Foxthorne Utilities",
-  "description": "Several scripts I want to reuse.",
+  "displayName": "Fox Core",
+  "description": "Core package for my package suite.",
   "unity": "2021.3",
- "keywords": [
+  "keywords": [
     "utilities"
   ],
   "author": {

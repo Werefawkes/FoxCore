@@ -1,11 +1,9 @@
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using System;
 
-namespace Foxthorne.Utilities
+namespace Foxthorne.FoxCore
 {
-    public class LineOfSight : MonoBehaviour
+	public class LineOfSight : MonoBehaviour
     {
         public List<Vector3> points = new();
 		public LayerMask LayerMask;
