@@ -1,11 +1,12 @@
 {
-  "name": "com.foxthorne.core",
+  "name": "com.foxthorne.foxcore",
   "version": "0.0.1",
   "displayName": "Fox Core",
   "description": "Core package for my package suite.",
   "unity": "2021.3",
   "keywords": [
-    "utilities"
+    "utilities",
+    "core"
   ],
   "author": {
     "name": "FoxThorne",
